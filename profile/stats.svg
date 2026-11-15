@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dezhao Su&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  : 338, Total PRs: 3, Total Issues: 3, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 31, Total Commits  : 338, Total PRs: 3, Total Issues: 3, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 192.33426947766833;
+        stroke-dashoffset: 191.68785123618898;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >30</text>
+      >31</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
